@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Manikanta Nandikolla 👋
 
-<!--
-**manikanta-nandikolla/manikanta-nandikolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Django Developer | Full-Stack Enthusiast | Recent Graduate
 
-Here are some ideas to get you started:
+I'm a passionate developer with a strong foundation in Django and Python web development. With an ECE background, I've built technical versatility that allows me to approach software development with a unique perspective. I'm eager to leverage my skills in building robust web applications and contribute to meaningful projects in a professional environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/manikanta-n-848781191/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=react&logoColor=white&color=4AB197)](https://manikantanandikolla.pythonanywhere.com)
+
+## 💼 Skills & Technologies
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/API-RESTful-informational?style=flat&logo=fastAPI&logoColor=white&color=4AB197)
+
+## 📌 Featured Projects
+
+<a href="https://github.com/manikanta-nandikolla/Hotel_booking">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mani3523&repo=Hotel_booking&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/manikanta-nandikolla/my_todolist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mani3523&repo=my_todolist&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+## 🔭 I'm currently...
+- Building a portfolio of Django-based web applications
+- Deepening my knowledge of JavaScript and frontend frameworks (React)
+- Exploring cloud deployment platforms (AWS, Heroku) for web applications
+- Looking for opportunities in full-stack development with a focus on Django
+
+## 🎓 Education
+- **B.Tech** in Electronics and Communication Engineering
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/mani3523">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mani3523&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Manikanta's GitHub Stats" />
+</a>
+
+<a href="https://github.com/mani3523">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani3523&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+## 📫 How to reach me:
+- Email: manikantanandikolla2@gmail.com
+- LinkedIn: [Manikanta Nandikolla](https://www.linkedin.com/in/manikanta-n-848781191/)
+
+---
+
+⭐️ From [manikantanandikolla](https://github.com/manikanta-nandikolla)
