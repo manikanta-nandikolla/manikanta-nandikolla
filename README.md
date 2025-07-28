@@ -23,11 +23,11 @@ I'm a passionate developer with a strong foundation in Django and Python web dev
 
 ## 📌 Featured Projects
 
-<a href="[https://github.com/manikanta-nandikolla/Hotel_booking](https://github.com/manikanta-nandikolla/School_Management_System)">
+<a href="https://github.com/manikanta-nandikolla/School_Management_System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manikanta-nandikolla&repo=School_Management_System&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="[https://github.com/manikanta-nandikolla/my_todolist](https://github.com/manikanta-nandikolla/Hotel_Booking)">
+<a href="https://github.com/manikanta-nandikolla/Hotel_Booking">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manikanta-nandikolla&repo=Hotel_Booking&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -42,7 +42,7 @@ I'm a passionate developer with a strong foundation in Django and Python web dev
 
 ## 📈 GitHub Stats
 
-<a href="[https://github.com/mani3523](https://github.com/manikanta-nandikolla)">
+<a href="https://github.com/manikanta-nandikolla">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manikanta-nandikolla&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Manikanta's GitHub Stats" />
 </a>
 
