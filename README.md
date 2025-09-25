@@ -2,7 +2,7 @@
 
 ## Django Developer | Full-Stack Enthusiast | Recent Graduate
 
-I'm a passionate developer with a strong foundation in Django and Python web development. With an ECE background, I've built technical versatility that allows me to approach software development with a unique perspective. I'm eager to leverage my skills in building robust web applications and contribute to meaningful projects in a professional environment.
+Passionate Python and Django developer. Built multiple real-world projects, including school management systems, food delivery platforms, and chatbots. Exploring Django REST, React, and mobile app integration and actively seeking remote Python/Django opportunities to grow and contribute.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/manikanta-n-848781191/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=react&logoColor=white&color=4AB197)](https://manikantanandikolla.pythonanywhere.com)
