@@ -46,13 +46,13 @@ Passionate Python and Django developer. Built multiple real-world projects, incl
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manikanta-nandikolla&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Manikanta's GitHub Stats" />
 </a>
 
-<a href="[https://github.com/mani3523](https://github.com/manikanta-nandikolla)">
+<a href="[https://github.com/manikanta-nandikolla](https://github.com/manikanta-nandikolla)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta-nandikolla&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 ## 📫 How to reach me:
 - Email: manikantanandikolla2@gmail.com
-- LinkedIn: [Manikanta Nandikolla](https://www.linkedin.com/in/manikanta-n-848781191/)
+- LinkedIn: [Manikanta Nandikolla](https://www.linkedin.com/in/manikanta-nandikolla-848781191/)
 
 ---
 
