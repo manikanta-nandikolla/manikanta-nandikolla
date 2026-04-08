@@ -1,59 +1,63 @@
-# Hi there, I'm Manikanta Nandikolla 👋
+# 👋 Hi there, I'm Manikanta Nandikolla
 
-## Django Developer | Full-Stack Enthusiast | Recent Graduate
+### 🚀 Backend-Focused Full Stack Developer | Python | FastAPI | Django | AWS
 
-Passionate Python and Django developer. Built multiple real-world projects, including school management systems, food delivery platforms, and chatbots. Exploring Django REST, React, and mobile app integration and actively seeking remote Python/Django opportunities to grow and contribute.
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/manikanta-n-848781191/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=react&logoColor=white&color=4AB197)](https://manikantanandikolla.pythonanywhere.com)
-
-## 💼 Skills & Technologies
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/API-RESTful-informational?style=flat&logo=fastAPI&logoColor=white&color=4AB197)
-
-## 📌 Featured Projects
-
-<a href="https://github.com/manikanta-nandikolla/School_Management_System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manikanta-nandikolla&repo=School_Management_System&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/manikanta-nandikolla/Hotel_Booking">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manikanta-nandikolla&repo=Hotel_Booking&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-## 🔭 I'm currently...
-- Building a portfolio of Django-based web applications
-- Deepening my knowledge of JavaScript and frontend frameworks (React)
-- Exploring cloud deployment platforms (AWS, Heroku) for web applications
-- Looking for opportunities in full-stack development with a focus on Django
-
-## 🎓 Education
-- **B.Tech** in Electronics and Communication Engineering
-
-## 📈 GitHub Stats
-
-<a href="https://github.com/manikanta-nandikolla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manikanta-nandikolla&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Manikanta's GitHub Stats" />
-</a>
-
-<a href="[https://github.com/manikanta-nandikolla](https://github.com/manikanta-nandikolla)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta-nandikolla&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-## 📫 How to reach me:
-- Email: manikantanandikolla2@gmail.com
-- LinkedIn: [Manikanta Nandikolla](https://www.linkedin.com/in/manikanta-nandikolla-848781191/)
+📍 Yanam, Andhra Pradesh | 📧 manikantanandikolla525@gmail.com | 📱 +91 7013550825
 
 ---
 
-⭐️ From [manikantanandikolla]([https://github.com/manikanta-nandikolla](https://github.com/manikanta-nandikolla))
+## 👨‍💻 About Me
+
+Backend-focused Full Stack Developer with experience building **scalable APIs**, **distributed systems**, and **AI-powered applications** using **LLMs** and **RAG**. Skilled in **Python**, **FastAPI**, **Django**, and **AWS** cloud services. Strong understanding of **system design**, **caching**, **messaging queues**, and **cloud-native architectures**.
+
+Currently completing my **B.Tech in Electronics and Communication Engineering** and actively seeking **Software Engineering** roles.
+
+---
+
+## 🛠️ Technical Skills
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
+### **Backend & Frameworks**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&logo=rest&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=microservices&logoColor=white)
+
+### **Frontend**
+![React.js](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+
+### **Messaging & Queueing**
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF9900?style=flat-square&logo=amazon-sqs&logoColor=white)
+![AWS SNS](https://img.shields.io/badge/AWS%20SNS-FF9900?style=flat-square&logo=amazon-sns&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF9900?style=flat-square&logo=amazon-api-gateway&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### **AI/LLM**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat-square&logo=amazon-bedrock&logoColor=white)
+
+---
