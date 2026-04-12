@@ -10,8 +10,6 @@
 
 Backend-focused Full Stack Developer with experience building **scalable APIs**, **distributed systems**, and **AI-powered applications** using **LLMs** and **RAG**. Skilled in **Python**, **FastAPI**, **Django**, and **AWS** cloud services. Strong understanding of **system design**, **caching**, **messaging queues**, and **cloud-native architectures**.
 
-Currently completing my **B.Tech in Electronics and Communication Engineering** and actively seeking **Software Engineering** roles.
-
 ---
 
 ## 🛠️ Technical Skills
